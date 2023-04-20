@@ -1,0 +1,25 @@
+[
+    {
+        "inputs": [
+            {
+                "internalType": "uint128",
+                "name": "nonce",
+                "type": "uint128"
+            },
+            {
+                "internalType": "bytes",
+                "name": "signature",
+                "type": "bytes"
+            },
+            {
+                "internalType": "address",
+                "name": "referrer",
+                "type": "address"
+            }
+        ],
+        "name": "claim",
+        "outputs": [],
+        "stateMutability": "nonpayable",
+        "type": "function"
+    }
+]
